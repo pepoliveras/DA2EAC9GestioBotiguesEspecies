@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<botiga adreca="C/ Botiga, 1" codi="1">
+  <mestre nif="00000000A" nom="Paula Sastre" sexe="D" talla="S"/>
+  <especia caracteristiques="Molt àromatica i de color marró fosc." codi="E2" nom="Pebre de Jamaica" picantor="2" preu="7.0"/>
+  <herbaAromatica caracteristiques="Molt aromàtica. Ideal per fer cargols." codi="H2" nom="Fonoll" preu="8.0"/>
+  <mescla codi="M2" nom="Mediterrànea" preu="15.0">
+    <mestre nif="00000000A" nom="Paula Sastre" sexe="D" talla="S"/>
+    <herbaAromatica caracteristiques="Molt aromàtica. Ideal per fer cargols." codi="H2" nom="Fonoll" preu="8.0" quantitat="5.0"/>
+    <especia caracteristiques="Molt àromatica i de color marró fosc." codi="E2" nom="Pebre de Jamaica" picantor="2" preu="7.0" quantitat="5.0"/>
+  </mescla>
+</botiga>
